@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf0033c5-d491-4316-8dc2-c36cb90c723b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project01/src/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/src/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project01/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/src/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI TODO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/Task_1005.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/URI_1006.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/URI_1008.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/URI_1009.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/URI_1010.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/URI_1012.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/URI_1013.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/URI_1014.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/URI_1015.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/URI_1016.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/URI_1017.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/URI_1018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/URI_1019.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/URI_1020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/URI_1021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/URI_1045.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/URI_1046.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/URI_1047.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/URI_1048.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/URI_1049.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/URI_1051.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/URI_1052.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/URI_1059.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/URI_1060.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/URI_1064.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/URI_1065.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/URI_1066.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/URI_1067.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/URI_1070.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/URI_1072.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/URI_1078.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/URI_1115.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/src/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="22" selection-end-line="69" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task05.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task06.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Task02.java" />
+        <option value="$PROJECT_DIR$/src/Task01.java" />
+        <option value="$PROJECT_DIR$/src/Task05.java" />
+        <option value="$PROJECT_DIR$/src/Task06.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Task03.java" />
+        <option value="$PROJECT_DIR$/src/Task04.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545748064757" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Task04">
+    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task03" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task04" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task05" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task06" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task03" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Task04" />
+      <item itemvalue="Application.Task05" />
+      <item itemvalue="Application.Task06" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Task05" />
+        <item itemvalue="Application.Task06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf0033c5-d491-4316-8dc2-c36cb90c723b" name="Default" comment="" />
+      <created>1544423046190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544423046190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20115681" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32934928" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32814527" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32934928" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32138115" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19625" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32814527" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3294423" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3216602" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Lab05/Problem10+/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="22" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task05.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task06.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
