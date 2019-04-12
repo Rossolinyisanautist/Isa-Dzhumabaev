@@ -1,34 +1,25 @@
-public class Field {
+import processing.core.PApplet;
 
-    static final int DEFAULT_WIDTH = 50;
-    static final int DEFAULT_HEIGHT = 50;
-    private static final int DEFAULT_COLOR = 0x00cc0d;
-    private int cellSize;
-    private int width, height;
-    private int color;
+class Field extends Cell{
 
-    Field(int cellSize){
-        this(DEFAULT_WIDTH, DEFAULT_HEIGHT, cellSize);
+    private static final int DEFAULT_NUMBER_OF_CELLS = 50;
+
+    private int numberOfCells;
+
+    Field(PApplet applet){
+        super(DEFAULT_NUMBER_OF_CELLS, DEFAULT_NUMBER_OF_CELLS,
+                PApplet.min(applet.width / Field.DEFAULT_NUMBER_OF_CELLS, applet.height / Field.DEFAULT_NUMBER_OF_CELLS)); // CELL SIZE
+
+        numberOfCells = DEFAULT_NUMBER_OF_CELLS;
     }
-    Field(int width, int height, int cellSize){
-        this.width = width;
-        this.height = height;
-        this.cellSize = cellSize;
-        color = DEFAULT_COLOR;
+    int getNumberOfCells(){
+        return numberOfCells;
     }
-    public void setColor(int color){
-        this.color = color;
-    }
-    int getWidth() {
-        return width;
-    }
-    int getHeight() {
-        return height;
-    }
-    int getColor() {
-        return color;
-    }
-    int getCellSize() {
-        return cellSize;
+    int getCellSize(){
+        return super.getSize();
     }
 }
+
+
+
+
