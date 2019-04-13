@@ -8,9 +8,15 @@ class Field extends Cell{
 
     Field(PApplet applet){
         super(DEFAULT_NUMBER_OF_CELLS, DEFAULT_NUMBER_OF_CELLS,
-                PApplet.min(applet.width / Field.DEFAULT_NUMBER_OF_CELLS, applet.height / Field.DEFAULT_NUMBER_OF_CELLS)); // CELL SIZE
+                PApplet.min(applet.width / Field.DEFAULT_NUMBER_OF_CELLS,    // CELL SIZE
+                            applet.height / Field.DEFAULT_NUMBER_OF_CELLS)); // CELL SIZE
 
         numberOfCells = DEFAULT_NUMBER_OF_CELLS;
+    }
+
+    boolean isPointInside(float x, float y){
+        return x >= 0 && x < getWidth() &&
+               y >= 0 && y < getHeight();
     }
     int getNumberOfCells(){
         return numberOfCells;

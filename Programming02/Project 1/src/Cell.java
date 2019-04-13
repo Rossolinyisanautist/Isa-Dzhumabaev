@@ -1,7 +1,8 @@
-public class Cell {
+class Cell {
 
     static final int COLOR = 0xff01b20c;
-    static final int STROKE = 0xff009909;
+    static final int STROKE = 0xff01a80c;
+//    static final int STROKE = 0xff01b20c;
 
     private int size;
 
@@ -15,11 +16,9 @@ public class Cell {
     int getSize() {
         return size;
     }
-
     int getWidth() {
         return width;
     }
-
     int getHeight() {
         return height;
     }

@@ -6,17 +6,18 @@ class Fruit {
     private int size;
     private int leafSize;
 
-    Fruit(Field field) {
-        x = (int) (Math.random() * field.getWidth());
-        y = (int) (Math.random() * field.getHeight());
+    Fruit(Field field, Snake snake) {
         leafSize = (int) (Math.random() * 4) + 1;
         size = field.getCellSize();
-    }
 
+        do {
+            x = (int) (Math.random() * field.getWidth());
+            y = (int) (Math.random() * field.getHeight());
+        }while(snake.collides(x, y));
+    }
     int getX() {
         return x;
     }
-
     int getY() {
         return y;
     }
