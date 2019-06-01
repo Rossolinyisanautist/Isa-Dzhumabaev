@@ -66,6 +66,7 @@ class Draw {
         applet.line(x + 10, y + 5, x + 15 , y - 10);
     }
 
+
     float screenX(float x){
         float cellSize = field.getCellSize();
         float finalFieldWidth = cellSize * field.getNumberOfCells();
@@ -78,5 +79,4 @@ class Draw {
         float shiftX = (applet.height- finalFieldWidth) / 2;
         return shiftX + y * cellSize;
     }
-
-}
+    }

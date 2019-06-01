@@ -2,177 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0033c5-d491-4316-8dc2-c36cb90c723b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project01/src/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/src/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project01/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/src/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/1001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/1002.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/1003.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/Project 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/src/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logic/Project. Task 2/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project01+/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/core1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1437/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1437/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1437/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1437/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1437/URI_1437.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1437/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project01+/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01+/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project01+/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01+/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI TODO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/Task_1005.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1005/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/URI_1006.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1006/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/URI_1008.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1008/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/URI_1009.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1009/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/URI_1010.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1010/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/URI_1012.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1012/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/URI_1013.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1013/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/URI_1014.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1014/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/URI_1015.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1015/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/URI_1016.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1016/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/URI_1017.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1017/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/URI_1018.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1018/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/URI_1019.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1019/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/URI_1020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1020/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/URI_1021.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1021/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/URI_1045.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1045/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/URI_1046.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1046/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/URI_1047.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1047/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/URI_1048.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1048/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/URI_1049.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1049/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/URI_1051.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1051/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/URI_1052.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1052/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/URI_1059.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1059/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/URI_1060.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1060/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/URI_1064.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1064/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/URI_1065.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1065/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/URI_1066.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1066/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/URI_1067.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1067/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/URI_1070.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1070/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/URI_1072.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1072/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/URI_1078.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1078/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/URI_1115.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI Problems/URI_1115/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/src/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/src/Pack/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Inheritance/src/Pack/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Project 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/Project 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Project 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/Project 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Project 1/src/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/Project 1/src/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Project 1/src/Draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/Project 1/src/Draw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Project 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/Project 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/Project 1/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/Project 1/src/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1136/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1136/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1136/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming02/URI_FINAL/URI_1136/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/images/ergoproxy_182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/style.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -181,13 +58,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="136">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,17 +79,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            <state relative-caret-position="-890">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Task03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="272">
+              <caret line="20" column="28" selection-start-line="3" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -213,20 +97,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="22" selection-end-line="69" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task04.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#203#204#0" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
               </folding>
@@ -254,7 +138,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -264,8 +148,8 @@
         <option value="$PROJECT_DIR$/src/Task05.java" />
         <option value="$PROJECT_DIR$/src/Task06.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Task03.java" />
         <option value="$PROJECT_DIR$/src/Task04.java" />
+        <option value="$PROJECT_DIR$/src/Task03.java" />
       </list>
     </option>
   </component>
@@ -280,14 +164,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545748064757" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../processing-lib/jogl-all.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -304,7 +189,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task04">
+  <component name="RunManager" selected="Application.Task03">
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task01" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task02" />
+      <module name="Project02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task03" />
       <module name="Project02" />
@@ -315,22 +216,6 @@
     </configuration>
     <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task04" />
-      <module name="Project02" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task05" />
-      <module name="Project02" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task06" />
       <module name="Project02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -352,12 +237,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -369,16 +256,16 @@
       <item itemvalue="Application.Task03" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Task04" />
-      <item itemvalue="Application.Task05" />
-      <item itemvalue="Application.Task06" />
+      <item itemvalue="Application.Task01" />
+      <item itemvalue="Application.Task02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task04" />
         <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.Task04" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Task05" />
-        <item itemvalue="Application.Task06" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +283,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -404,15 +291,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20115681" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.204236" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32934928" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32814527" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3267974" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32934928" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32138115" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32026145" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -433,15 +320,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19625" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.204236" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32814527" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32934928" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3267974" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3294423" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3216602" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32934928" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32138115" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -454,60 +341,58 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Lab05/Problem10+/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="22" selection-end-line="69" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lab05/Problem10+/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Task05.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task06.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
             <element signature="e#203#204#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-890">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="28" selection-start-line="3" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -568,7 +453,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -576,7 +460,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>core</last-edited>
+          <last-edited>core1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

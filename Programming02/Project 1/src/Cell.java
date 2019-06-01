@@ -2,7 +2,6 @@ class Cell {
 
     static final int COLOR = 0xff01b20c;
     static final int STROKE = 0xff01a80c;
-//    static final int STROKE = 0xff01b20c;
 
     private int size;
 

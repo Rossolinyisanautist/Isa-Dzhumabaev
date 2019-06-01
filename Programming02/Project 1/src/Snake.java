@@ -28,6 +28,7 @@ class Snake {
         if(!isAlive){
             return;
         }
+
         int nextX = getHeadX() + dx;
         int nextY = getHeadY() + dy;
         head = (head + 1) % body.size();
@@ -40,6 +41,7 @@ class Snake {
             setY(nextY);
         }
     }
+
     boolean collides(int x, int y){
         for(Point bodyPart : body) {
             if(bodyPart.x == x && bodyPart.y == y){
@@ -100,5 +102,8 @@ class Snake {
     }
     boolean isAlive(){
         return isAlive;
+    }
+    void setAlive(){
+        isAlive = true;
     }
 }
